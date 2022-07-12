@@ -3,7 +3,7 @@
 
 ### Authors
 
-* Melissa Ng
+* mazi intel
 
 ### Requirements
 
@@ -16,7 +16,7 @@
 This project introduces functions and nested loops in C programming. Each .c file contains a different function while the holberton.h file contains all the function prototypes.
 
 ### Description of what each file does
-0. prints "Holberton"
+0. prints "_putchar"
 1. prints the alphabet, in lowercase
 2. prints 10 times the alphabet, in lowercase
 3. checks for lowercase character; returns 1 if true and 0 if false
